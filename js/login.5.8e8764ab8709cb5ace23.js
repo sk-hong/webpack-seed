@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{317:function(n,o,i){"use strict";i.r(o);i(45),i(318);$(".login-btn").on("click",function(){window.location.href="../index.html"}),console.log("login page")},318:function(n,o,i){}},[[317,2,0,1]]]);
